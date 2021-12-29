@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Cpp.dir/main.cpp.o  -o Cpp   -L/home/tetsuo/Clones/learningc/Cpp/src/Nerd  -Wl,-rpath,/home/tetsuo/Clones/learningc/Cpp/src/Nerd Nerd/libNerd.a 

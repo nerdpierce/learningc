@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.2)
+project(Cpp)
+add_executable(${PROJECT_NAME} main.cpp)
+add_subdirectory(Nerd)
+target_include_directories(${PROJECT_NAME} PUBLIC Nerd)
+target_link_directories(${PROJECT_NAME} PRIVATE Nerd)
+target_link_libraries(${PROJECT_NAME} Nerd)

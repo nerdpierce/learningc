@@ -1,0 +1,6 @@
+/home/tetsuo/Clones/learningc/Cpp/build/CMakeFiles/rebuild_cache.dir
+/home/tetsuo/Clones/learningc/Cpp/build/CMakeFiles/edit_cache.dir
+/home/tetsuo/Clones/learningc/Cpp/build/CMakeFiles/Cpp.dir
+/home/tetsuo/Clones/learningc/Cpp/build/Nerd/CMakeFiles/edit_cache.dir
+/home/tetsuo/Clones/learningc/Cpp/build/Nerd/CMakeFiles/rebuild_cache.dir
+/home/tetsuo/Clones/learningc/Cpp/build/Nerd/CMakeFiles/Nerd.dir

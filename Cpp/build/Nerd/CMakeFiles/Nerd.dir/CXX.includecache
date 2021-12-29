@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tetsuo/Clones/learningc/Cpp/src/Nerd/Nerd.cpp
+Nerd.h
+/home/tetsuo/Clones/learningc/Cpp/src/Nerd/Nerd.h
+
+/home/tetsuo/Clones/learningc/Cpp/src/Nerd/Nerd.h
+iostream
+-
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNerd.a  CMakeFiles/Nerd.dir/Nerd.cpp.o
+/usr/bin/ranlib libNerd.a

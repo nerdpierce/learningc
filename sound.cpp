@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-
+using namespace std;
 // 1. First the program will ask the user a question and promt 
 //    user for respose.
 //
@@ -12,8 +12,8 @@
 int main()
 {
   char instrument[256];
-  std::cout << "whats your favorite sound? " << std::endl;
+  cout << "whats your favorite sound? " << endl;
 
-  std::cin.getline(instrument, 256);
-  std::cout << instrument << " is a wonderful sound. "; 
+  cin.getline(instrument, 256);
+  cout << instrument << " is a wonderful sound. "; 
 }
