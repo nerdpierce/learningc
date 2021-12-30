@@ -13,6 +13,7 @@ int main(int argc, char *argv[])
 
 
   // Write a for loop that loops through size.
+  // Printing out its value in each iteration.
 
 
   // Memory management:: delete malloc array and remove
