@@ -23,17 +23,28 @@ int main(int argc, char *argv[])
  
   *q = 8;
 
-  std::cout << q << std::endl;
+  std::cout << *q << std::endl;
 
 
   // Heap should now hold the value of 9
   // under an new heap allocation.
+  
+  int *g;
+  g = new int;
+  *g = 9;
+
+  std::cout << *g << std::endl;
 
 
   // Print 8 again.
+  
+  std::cout << *q << std::endl;
+
 
 
   // Print 9
+
+  std::cout << *g << std::endl;
 
   return 0;
 }
