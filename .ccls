@@ -1,0 +1,4 @@
+clang++
+%cxx -std=c++2a
+%cxx -stdlib=libc++
+%cxx -I/usr/local/include
